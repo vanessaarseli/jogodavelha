@@ -21,4 +21,6 @@ ImGui::Button(std::string(1, nomeBotao[2]).c_str(), ImVec2(150, 150));
 
 O componente ImGui::Button é responsável por criar de fato o botão. O párâmetro inserido na criação std::string(1, nomeBotao[2]).c_str() trata-se de uma matriz que armazena se está com X ou O naquele determinado botão. Já o ImVec2(150, 150) é utilizado para determinar tamanho do botão.
 
-Link da compilção e execução do jogo: https://youtu.be/2m850gsMUC4
+Link da compilação e execução do jogo: https://youtu.be/2m850gsMUC4
+
+Página do Jogo: https://vanessaarseli.github.io/jogodavelha/public/
