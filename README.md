@@ -1,4 +1,4 @@
-# Jogo da Velha - Computação Gráfica
+# Jogo da Velha (Atividade 1) - Computação Gráfica
 
 Esse jogo foi desenvolvido utilizando OpenGL com C++.
 
